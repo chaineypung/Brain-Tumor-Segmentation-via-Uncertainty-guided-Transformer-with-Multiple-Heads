@@ -1,2 +1,2 @@
-# CU-Trans
-For MICCAI 2022
+# Brain Tumor Segmentation via Uncertainty guided Transformer with Multiple Heads
+
